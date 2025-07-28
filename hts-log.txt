@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 28 Jul 2025 12:01:09 at https://cybersierra.co/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwr2%e0C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://cybersierra.co/ -O1 "C:\My Web Sites\Cyber Sierra Demo" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:02:04	Error: 	"Forbidden" (403) at link https://cybersierra.co/xmlrpc.php?rsd (from https://cybersierra.co/)
+12:02:23	Error: 	"Bad Request" (400) at link https://cybersierra.co/wp-admin/admin-ajax.php (from https://cybersierra.co/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 14 seconds : 125 links scanned, 122 files written (10350446 bytes overall) [4650960 bytes received at 62850 bytes/sec], 7279094 bytes transferred using HTTP compression in 104 files, ratio 19%, 21.1 requests per connection
+(2 errors, 0 warnings, 0 messages)
